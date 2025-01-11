@@ -112,4 +112,4 @@ Like my works and want to support me?
 
 Live previews are the best way for a better understanding of the application's user interface.
 
-[Click here...](url)
+[Click here...](https://stora-sigma.vercel.app)
